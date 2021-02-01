@@ -9,7 +9,7 @@ The code creates a dictionary of frequencies (a vector) of words in each documen
 Based on preferance, abbreviations can be expanded (i.e. you're -> you are, won't -> will not)
 Below is the translation table for abbreviations:
   abbr_to_replace = {'won\'t': 'will not',
-						         'don\'t': 'do not',
+		     'don\'t': 'do not',
                      'can\'t': 'can not',
                      'haven\'t': 'have not',
                      'mustn\'t': 'must not',
