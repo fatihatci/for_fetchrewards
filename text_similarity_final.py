@@ -18,7 +18,8 @@ def expand_abbreviations(text):
                         'aren\'t': 'are not',
                         '\'ll': ' will',
                         '\'re': ' are',
-                        '\'m': ' am'}
+                        '\'m': ' am',
+			'\'ve': ' have'}
 	for key, value in abbr_to_replace.items():
 		expanded = expanded.replace(key, value)
 
