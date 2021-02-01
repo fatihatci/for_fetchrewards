@@ -22,4 +22,5 @@
                      'aren\'t': 'are not',
                      '\'ll': ' will',
                      '\'re': ' are',
-                     '\'m': ' am'}
+                     '\'m': ' am',
+		     '\'ve': ' have'}
